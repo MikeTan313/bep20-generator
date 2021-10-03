@@ -8,7 +8,7 @@ The new Smart Contract Generator for BEP20 Token.
 
 ## Try it
 
-[https://tokencenter.github.io/bep20-generator](https://tokencenter.github.io/bep20-generator)
+[https://MikeTan313.github.io/bep20-generator](https://MikeTan313.github.io/bep20-generator)
 
 ## License
 
